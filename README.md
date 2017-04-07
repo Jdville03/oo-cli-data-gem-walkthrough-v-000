@@ -20,7 +20,7 @@
 [MP4](Needs Upload)
 
 
-## Summery
+## Summary
 
 * Planning the Gem
 * Beginning the Gem building process
